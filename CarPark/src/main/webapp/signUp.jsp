@@ -13,19 +13,19 @@
 <body>
 <form name="signupForm" action="./" method="post">
 		
-  <h2> User details: </h2>
+  <h2> User Details: </h2>
   
   <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname" minlength="1" maxlength="20" placeholder="John" required><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" minlength="1" maxlength="20" placeholder="Doe" required><br><br>
   
-  <h2> Vehicle details: </h2>
+  <h2> Vehicle Details: </h2>
   
-  <label for="carmake">Car make:</label><br>
+  <label for="carmake">Car Make:</label><br>
   <input type="text" id="carmake" name="carmake" minlength="1" maxlength="20" placeholder="Toyota" required><br>
   
-   <label for="carmodel">Car model:</label><br>
+   <label for="carmodel">Car Model:</label><br>
   <input type="text" id="carmodel" name="carmodel" minlength="1" maxlength="20" placeholder="Corolla" required><br>
   
   <label for="carregistration">Vehicle Registration:</label><br>
@@ -43,7 +43,7 @@
   <label for="cvv">Cvv </label><br>
   <input type="password" id="cvv" name="cvv" minlength="3" maxlength="3" placeholder="123" required><br>
   
-  <label>ExpiryDate </label><br>
+  <label>Expiry Date </label><br>
 	  <select name='expireMM' id='expireMM' required>
 	    <option value=''>Month</option>
 	    <option value='01'>January</option>

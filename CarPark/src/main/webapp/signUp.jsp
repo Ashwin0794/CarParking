@@ -15,9 +15,9 @@
 		
   <h2> User Details: </h2>
   
-  <label for="fname">First name:</label><br>
+  <label for="fname">First Name:</label><br>
   <input type="text" id="fname" name="fname" minlength="1" maxlength="20" placeholder="John" required><br>
-  <label for="lname">Last name:</label><br>
+  <label for="lname">Last Name:</label><br>
   <input type="text" id="lname" name="lname" minlength="1" maxlength="20" placeholder="Doe" required><br><br>
   
   <h2> Vehicle Details: </h2>

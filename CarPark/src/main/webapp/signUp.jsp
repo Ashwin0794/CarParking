@@ -8,6 +8,10 @@
 <head>
 <meta charset="UTF-8">
 <title >Input Form</title>
+<style>
+body {background-color: powderblue;
+background-image: url('ProjectLogo.jpg');
+</style>
 </head>
 
 <body>
@@ -64,9 +68,9 @@
 	    <option value='22'>2022</option>
 	    <option value='23'>2023</option>
 	    <option value='24'>2024</option>
-	    <option value='24'>2025</option>
-	    <option value='24'>2026</option>
-	    <option value='24'>2027</option>
+	    <option value='25'>2025</option>
+	    <option value='26'>2026</option>
+	    <option value='27'>2027</option>
 	    
 	</select> 
   
